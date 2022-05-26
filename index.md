@@ -1,7 +1,6 @@
+[toc]
 
 # ToolKit
-
-[toc]
 
 
 ## 数据分析
