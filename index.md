@@ -6,7 +6,9 @@
 
 ### 技术相关
 #### 大数据架构
-- 概述: *[数据中台](https://zhuanlan.zhihu.com/p/386350937)    |    [离线/实时数仓](https://mp.weixin.qq.com/s/CKGCFBxA15qSAI3vPwQyCw)*
+- 概述: 
+  - *[数据中台](https://zhuanlan.zhihu.com/p/386350937)*
+  - [离线/实时数仓](https://mp.weixin.qq.com/s/CKGCFBxA15qSAI3vPwQyCw)*
 - 离线
 - 实时
 #### SQL相关
