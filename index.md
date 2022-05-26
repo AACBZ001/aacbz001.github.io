@@ -1,7 +1,7 @@
 
 ## 业务相关
 ### 指标体系
-- *[指标体系建设](https://mp.weixin.qq.com/s/xTnk3r5sDsoOJVsy4h35ZA)
+- *[指标体系建设](https://mp.weixin.qq.com/s/xTnk3r5sDsoOJVsy4h35ZA)*
 
 ### 用户增长
 - [用户增长概述](https://zhuanlan.zhihu.com/p/353255352)
