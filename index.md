@@ -17,7 +17,7 @@
 - *[数仓模型规范](https://mp.weixin.qq.com/s/6csIOFGu4rq0AdebXRrMGw)*
 - *[元数据管理](https://mp.weixin.qq.com/s/RT8eK8e0E_D-ZUIJhzs5wA)*
 #### 实时
-	- *[实时数仓架构](https://mp.weixin.qq.com/s/ulXyZ4wWOCXr21hWUynRXw)*
+- *[实时数仓架构](https://mp.weixin.qq.com/s/ulXyZ4wWOCXr21hWUynRXw)*
 
 ### SQL相关
 - *[数据倾斜原理](https://mp.weixin.qq.com/s/hz_6io_ZybbOlmBQE4KSBQ)*
