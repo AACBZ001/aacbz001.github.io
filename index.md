@@ -7,15 +7,18 @@
 ## 技术相关
 
 ### 大数据架构
+
 #### 概述: 
 - *[数据中台](https://zhuanlan.zhihu.com/p/386350937)*
 - *[离线/实时数仓](https://mp.weixin.qq.com/s/CKGCFBxA15qSAI3vPwQyCw)*
+
 #### 离线
 - *[数据仓库/数据指标/数据治理体系建设方法论](https://mp.weixin.qq.com/s/_GwIsY7ZRHzNB2jnsG-xhQ)*
 - *[数仓基本术语](https://mp.weixin.qq.com/s/puEoMCw25E07JePIUtFUmw)*
 - *[数仓建设指南](https://mp.weixin.qq.com/s/kZUqUzys_JDLyZrHXu227w)*
 - *[数仓模型规范](https://mp.weixin.qq.com/s/6csIOFGu4rq0AdebXRrMGw)*
 - *[元数据管理](https://mp.weixin.qq.com/s/RT8eK8e0E_D-ZUIJhzs5wA)*
+
 #### 实时
 - *[实时数仓架构](https://mp.weixin.qq.com/s/ulXyZ4wWOCXr21hWUynRXw)*
 
@@ -31,11 +34,14 @@
 - *[AB实验和假设检验方法汇总](https://zhuanlan.zhihu.com/p/432025060)*
 
 ### 分析方法
+
 #### 因果分析
+
 ##### AB实验
 - *[AB实验入门](https://zhuanlan.zhihu.com/p/346602966)*
 - *[AB实验进阶](https://mattzheng.blog.csdn.net/article/details/121859706?spm=1001.2014.3001.5502)*
 - *[复杂AB实验](https://www.zhihu.com/question/20045543)*
+
 ##### 因果分析
 - *[因果分析入门（1）](https://zhuanlan.zhihu.com/p/409609129)*
 - *[因果分析入门（2）](https://mp.weixin.qq.com/s/U3ZYultBAzhYqQIEky569w)*
@@ -43,6 +49,7 @@
 - *[因果分析（偏理论）](https://zhuanlan.zhihu.com/p/372399985)*
 - *[因果分析（偏实践）](https://mattzheng.blog.csdn.net/article/details/119855174?spm=1001.2014.3001.5502)*
 - *[因果分析（合集）](https://www.zhihu.com/column/c_1408014345809227776)*
+
 ##### 行业实践
 - *[实践汇总（1）](https://mattzheng.blog.csdn.net/article/details/120083536?spm=1001.2014.3001.5502)*
 - *[实践汇总（2）](https://mattzheng.blog.csdn.net/article/details/120256633?spm=1001.2014.3001.5502)*
@@ -75,6 +82,7 @@
 
 
 #### 归因分析
+
 ##### 多用于广告投放，也可套用在转化链路
 - *[多渠道归因分析（Attribution）](https://zhuanlan.zhihu.com/p/387614603)*
 - *[夏普利值（Shapley Value）](https://zhuanlan.zhihu.com/p/387614061)*
@@ -105,6 +113,7 @@
 - *[网络结构数据的分析与应用——电影演员合作网络案例分析](https://mp.weixin.qq.com/s/nXRYREDOQSpl3qBOi4tysw)*
 
 ### 机器学习
+
 #### 基本知识点
 - *[机器学习入门系列](https://mp.weixin.qq.com/s/WzwotLRYoUXgoTGkHRZyvg)*
 - *[数据集基础](https://zhuanlan.zhihu.com/p/295098381)*
