@@ -3,17 +3,60 @@
 ## 方法总结
 
 ### 行业分析
-- *[如何学习行业/战略分析](https://mp.weixin.qq.com/s/q2f1yXQTYvq_OdqkHs69NA)*    - *[如何写一份全面且优秀的行业研究报告](https://mp.weixin.qq.com/s/AtJpiE4tS0rTBSlnzer8ng)*
+- *[如何学习行业/战略分析](https://mp.weixin.qq.com/s/q2f1yXQTYvq_OdqkHs69NA)*
+- *[如何写一份全面且优秀的行业研究报告](https://mp.weixin.qq.com/s/AtJpiE4tS0rTBSlnzer8ng)*
 
 ### 商业分析
+- *[什么是商业分析](https://mp.weixin.qq.com/s/VDJva2WWpqo5YRZQq0rbhA)*
+- *[互联网商业分析工作都有哪些](https://zhuanlan.zhihu.com/p/339530238)*
+- *[优秀商分的能力模型](https://mp.weixin.qq.com/s/Vgak3QWtvGKjtw4LBz0fYQ)*
+- *[如何学习商业分析（1）](https://mp.weixin.qq.com/s/G-zCa4DFUvWkyW3ORc_Z4w)*
+- *[如何学习商业分析（2）](https://mp.weixin.qq.com/s/UI5aa2SoBeGYS0Akzw8qMA)*
+- *[如何学习商业分析（3）](https://mp.weixin.qq.com/s/l1xKArhV4knLg8dYizeziw)*
+- *[常用商业分析模型](https://zhuanlan.zhihu.com/p/441831785)*
+- *[如何理解UE](https://zhuanlan.zhihu.com/p/21428408)*   
 
 ## 信息获取
 
 ### 宏观数据
 
+#### 官方数据库
+
+*国内：[国家统计局](https://data.stats.gov.cn/)     [中国统计信息网](http://www.tjcn.org/)    [中国互联网络信息中心](http://www.cnnic.net.cn/hlwfzyj/)*
+
+*国际：[联合国](http://data.un.org/Explorer.aspx)    [世界银行](https://data.worldbank.org.cn/)    [OECD](https://data.oecd.org/home/)    [IMF](https://www.imf.org/en/Data)*
+
+#### 第三方数据库
+
+*[Global Stat](https://globalstat.eu/population/48/datatable/2015-2020)    [Gap Minder](https://www.gapminder.org/data/)    付费的Wind、Bloomberg等*
+
 ### 行业数据
 
+#### 第三方行业报告
+
+*[黑板洞查](https://www.heibandongcha.com/)    [芥末堆](https://www.jiemodui.com/T/42146.html)    [钛媒体](https://www.tmtpost.com/search?q=%E6%95%99%E8%82%B2&time=1637746811&code=20908d280ebaff8f85a4ba71915c62d9)    [母婴行业观察](http://www.myguancha.com/wjyzh.html)*
+
+*[艾瑞](https://www.iresearch.com.cn/report.shtml)    [艾媒](https://www.iimedia.cn/#shuju)    [CBNData](https://www.cbndata.com/report)    [易观数据](https://www.analysys.cn/article/analysis/?p=1)    [Ecdataway](https://www.ecdataway.com/)    [QuestMobile](https://www.questmobile.com.cn/research/report-new)   [Dydata](https://www.dydata.io/)*
+
+*[36kr](https://36kr.com/academe)    [前瞻产业研究院](https://bg.qianzhan.com/report/list/300.html)    [华经情报网](https://www.huaon.com/channel/trend/)    [移动观象台](http://mi.talkingdata.com/reports.html?category=all)    [Itrust Data](http://itrustdata.com/#publish)    [巨量算数](https://trendinsight.oceanengine.com/foresee/feature-story)    [数据观](http://www.cbdio.com/node_2782.htm)    [前沿报告库](https://wk.askci.com/ListTable/?typeId=7)    [慧博投研](http://www.hibor.com.cn/)*
+
+*[阿里研究院](http://www.aliresearch.com/cn/special)    [腾讯大数据](https://data.qq.com/reports)    [美团研究院](https://about.meituan.com/research/report)*
+
+*[麦肯锡](https://www.mckinsey.com.cn/insights/)    [普华永道](https://www.pwccn.com/zh/research-and-insights.html)    [德勤](https://www2.deloitte.com/cn/zh.html)    [毕马威](https://home.kpmg/cn/zh/home/insights.html)    [贝恩](https://www.bain.cn/new_list.php)    [尼尔森](https://www.nielsen.com/cn/zh/insights/)    [益普索](https://www.ipsos.com/zh-cn)    以及一些券商的行业研报*
+
+#### 第三方数据库
+
+*[高德地图API](https://lbs.amap.com/api/webservice/summary/)   [百度地图API](https://lbsyun.baidu.com/index.php?title=webapi)*
+
 ### 公司数据
+
+#### 官方数据    
+
+*交易所看财报    公司官网*
+
+#### 第三方数据   
+
+*公司的线上店铺（淘宝、京东等）*
 
 
 
