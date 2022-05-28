@@ -3,6 +3,7 @@
 ## 方法总结
 
 ### 行业分析
+- *[如何学习行业/战略分析](https://mp.weixin.qq.com/s/q2f1yXQTYvq_OdqkHs69NA)*    - *[如何写一份全面且优秀的行业研究报告](https://mp.weixin.qq.com/s/AtJpiE4tS0rTBSlnzer8ng)*
 
 ### 商业分析
 
@@ -22,7 +23,7 @@
 
 ### 大数据架构
 
-#### 概述: 
+#### 概述
 - *[数据中台](https://zhuanlan.zhihu.com/p/386350937)*
 - *[离线/实时数仓](https://mp.weixin.qq.com/s/CKGCFBxA15qSAI3vPwQyCw)*
 
