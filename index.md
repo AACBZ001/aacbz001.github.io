@@ -1,20 +1,24 @@
+@[TOC]
+
 # 商业分析
 
 ## 方法总结
 
 ### 行业分析
-- *[如何学习行业/战略分析](https://mp.weixin.qq.com/s/q2f1yXQTYvq_OdqkHs69NA)*
-- *[如何写一份全面且优秀的行业研究报告](https://mp.weixin.qq.com/s/AtJpiE4tS0rTBSlnzer8ng)*
+
+*[如何学习行业/战略分析](https://mp.weixin.qq.com/s/q2f1yXQTYvq_OdqkHs69NA)*
+
+*[如何写一份全面且优秀的行业研究报告](https://mp.weixin.qq.com/s/AtJpiE4tS0rTBSlnzer8ng)*
 
 ### 商业分析
-- *[什么是商业分析](https://mp.weixin.qq.com/s/VDJva2WWpqo5YRZQq0rbhA)*
-- *[互联网商业分析工作都有哪些](https://zhuanlan.zhihu.com/p/339530238)*
-- *[优秀商分的能力模型](https://mp.weixin.qq.com/s/Vgak3QWtvGKjtw4LBz0fYQ)*
-- *[如何学习商业分析（1）](https://mp.weixin.qq.com/s/G-zCa4DFUvWkyW3ORc_Z4w)*
-- *[如何学习商业分析（2）](https://mp.weixin.qq.com/s/UI5aa2SoBeGYS0Akzw8qMA)*
-- *[如何学习商业分析（3）](https://mp.weixin.qq.com/s/l1xKArhV4knLg8dYizeziw)*
-- *[常用商业分析模型](https://zhuanlan.zhihu.com/p/441831785)*
-- *[如何理解UE](https://zhuanlan.zhihu.com/p/21428408)*   
+
+*[什么是商业分析](https://mp.weixin.qq.com/s/VDJva2WWpqo5YRZQq0rbhA)&emsp;&emsp;[互联网商业分析工作都有哪些](https://zhuanlan.zhihu.com/p/339530238)*
+
+*[优秀商分的能力模型](https://mp.weixin.qq.com/s/Vgak3QWtvGKjtw4LBz0fYQ)*
+
+*[如何学习商业分析（1）](https://mp.weixin.qq.com/s/G-zCa4DFUvWkyW3ORc_Z4w)&emsp;&emsp;[如何学习商业分析（2）](https://mp.weixin.qq.com/s/UI5aa2SoBeGYS0Akzw8qMA)&emsp;&emsp;[如何学习商业分析（3）](https://mp.weixin.qq.com/s/l1xKArhV4knLg8dYizeziw)*
+
+*[常用商业分析模型](https://zhuanlan.zhihu.com/p/441831785)&emsp;&emsp;[如何理解UE](https://zhuanlan.zhihu.com/p/21428408)*   
 
 ## 信息获取
 
