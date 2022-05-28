@@ -1,3 +1,4 @@
+@[TOC]
 
 
 # 商业分析
@@ -12,13 +13,13 @@
 
 ### 商业分析
 
-*[什么是商业分析](https://mp.weixin.qq.com/s/VDJva2WWpqo5YRZQq0rbhA)&emsp;&emsp;[互联网商业分析工作都有哪些](https://zhuanlan.zhihu.com/p/339530238)*
+*[什么是商业分析](https://mp.weixin.qq.com/s/VDJva2WWpqo5YRZQq0rbhA)&emsp;[互联网商业分析工作都有哪些](https://zhuanlan.zhihu.com/p/339530238)*
 
 *[优秀商分的能力模型](https://mp.weixin.qq.com/s/Vgak3QWtvGKjtw4LBz0fYQ)*
 
-*[如何学习商业分析（1）](https://mp.weixin.qq.com/s/G-zCa4DFUvWkyW3ORc_Z4w)&emsp;&emsp;[如何学习商业分析（2）](https://mp.weixin.qq.com/s/UI5aa2SoBeGYS0Akzw8qMA)&emsp;&emsp;[如何学习商业分析（3）](https://mp.weixin.qq.com/s/l1xKArhV4knLg8dYizeziw)*
+*[如何学习商业分析（1）](https://mp.weixin.qq.com/s/G-zCa4DFUvWkyW3ORc_Z4w)&emsp;[如何学习商业分析（2）](https://mp.weixin.qq.com/s/UI5aa2SoBeGYS0Akzw8qMA)&emsp;[如何学习商业分析（3）](https://mp.weixin.qq.com/s/l1xKArhV4knLg8dYizeziw)*
 
-*[常用商业分析模型](https://zhuanlan.zhihu.com/p/441831785)&emsp;&emsp;[如何理解UE](https://zhuanlan.zhihu.com/p/21428408)*   
+*[常用商业分析模型](https://zhuanlan.zhihu.com/p/441831785)&emsp;[如何理解UE](https://zhuanlan.zhihu.com/p/21428408)*   
 
 ## 信息获取
 
@@ -26,37 +27,37 @@
 
 #### 官方数据库
 
-*国内：[国家统计局](https://data.stats.gov.cn/)&emsp;&emsp;[中国统计信息网](http://www.tjcn.org/)&emsp;&emsp;[中国互联网络信息中心](http://www.cnnic.net.cn/hlwfzyj/)*
+*国内：[国家统计局](https://data.stats.gov.cn/)&emsp;[中国统计信息网](http://www.tjcn.org/)&emsp;[中国互联网络信息中心](http://www.cnnic.net.cn/hlwfzyj/)*
 
-*国际：[联合国](http://data.un.org/Explorer.aspx)&emsp;&emsp;[世界银行](https://data.worldbank.org.cn/)&emsp;&emsp;[OECD](https://data.oecd.org/home/)&emsp;&emsp;[IMF](https://www.imf.org/en/Data)*
+*国际：[联合国](http://data.un.org/Explorer.aspx)&emsp;[世界银行](https://data.worldbank.org.cn/)&emsp;[OECD](https://data.oecd.org/home/)&emsp;[IMF](https://www.imf.org/en/Data)*
 
 #### 第三方数据库
 
-*[Global Stat](https://globalstat.eu/population/48/datatable/2015-2020)&emsp;&emsp;[Gap Minder](https://www.gapminder.org/data/)&emsp;&emsp;付费的Wind、Bloomberg等*
+*[Global Stat](https://globalstat.eu/population/48/datatable/2015-2020)&emsp;[Gap Minder](https://www.gapminder.org/data/)&emsp;付费的Wind、Bloomberg等*
 
 ### 行业数据
 
 #### 第三方行业报告
 
-*[黑板洞查](https://www.heibandongcha.com/)&emsp;&emsp;[芥末堆](https://www.jiemodui.com/T/42146.html)&emsp;&emsp;[钛媒体](https://www.tmtpost.com/search?q=%E6%95%99%E8%82%B2&time=1637746811&code=20908d280ebaff8f85a4ba71915c62d9)&emsp;&emsp;[母婴行业观察](http://www.myguancha.com/wjyzh.html)*
+*[黑板洞查](https://www.heibandongcha.com/)&emsp;[芥末堆](https://www.jiemodui.com/T/42146.html)&emsp;[钛媒体](https://www.tmtpost.com/search?q=%E6%95%99%E8%82%B2&time=1637746811&code=20908d280ebaff8f85a4ba71915c62d9)&emsp;[母婴行业观察](http://www.myguancha.com/wjyzh.html)*
 
-*[艾瑞](https://www.iresearch.com.cn/report.shtml)&emsp;&emsp;[艾媒](https://www.iimedia.cn/#shuju)&emsp;&emsp;[CBNData](https://www.cbndata.com/report)&emsp;&emsp;[易观数据](https://www.analysys.cn/article/analysis/?p=1)&emsp;&emsp;[Ecdataway](https://www.ecdataway.com/)&emsp;&emsp;[QuestMobile](https://www.questmobile.com.cn/research/report-new)   [Dydata](https://www.dydata.io/)*
+*[艾瑞](https://www.iresearch.com.cn/report.shtml)&emsp;[艾媒](https://www.iimedia.cn/#shuju)&emsp;[CBNData](https://www.cbndata.com/report)&emsp;[易观数据](https://www.analysys.cn/article/analysis/?p=1)&emsp;[Ecdataway](https://www.ecdataway.com/)&emsp;[QuestMobile](https://www.questmobile.com.cn/research/report-new)   [Dydata](https://www.dydata.io/)*
 
-*[36kr](https://36kr.com/academe)&emsp;&emsp;[前瞻产业研究院](https://bg.qianzhan.com/report/list/300.html)&emsp;&emsp;[华经情报网](https://www.huaon.com/channel/trend/)&emsp;&emsp;[移动观象台](http://mi.talkingdata.com/reports.html?category=all)&emsp;&emsp;[Itrust Data](http://itrustdata.com/#publish)&emsp;&emsp;[巨量算数](https://trendinsight.oceanengine.com/foresee/feature-story)&emsp;&emsp;[数据观](http://www.cbdio.com/node_2782.htm)&emsp;&emsp;[前沿报告库](https://wk.askci.com/ListTable/?typeId=7)&emsp;&emsp;[慧博投研](http://www.hibor.com.cn/)*
+*[36kr](https://36kr.com/academe)&emsp;[前瞻产业研究院](https://bg.qianzhan.com/report/list/300.html)&emsp;[华经情报网](https://www.huaon.com/channel/trend/)&emsp;[移动观象台](http://mi.talkingdata.com/reports.html?category=all)&emsp;[Itrust Data](http://itrustdata.com/#publish)&emsp;[巨量算数](https://trendinsight.oceanengine.com/foresee/feature-story)&emsp;[数据观](http://www.cbdio.com/node_2782.htm)&emsp;[前沿报告库](https://wk.askci.com/ListTable/?typeId=7)&emsp;[慧博投研](http://www.hibor.com.cn/)*
 
-*[阿里研究院](http://www.aliresearch.com/cn/special)&emsp;&emsp;[腾讯大数据](https://data.qq.com/reports)&emsp;&emsp;[美团研究院](https://about.meituan.com/research/report)*
+*[阿里研究院](http://www.aliresearch.com/cn/special)&emsp;[腾讯大数据](https://data.qq.com/reports)&emsp;[美团研究院](https://about.meituan.com/research/report)*
 
-*[麦肯锡](https://www.mckinsey.com.cn/insights/)&emsp;&emsp;[普华永道](https://www.pwccn.com/zh/research-and-insights.html)&emsp;&emsp;[德勤](https://www2.deloitte.com/cn/zh.html)&emsp;&emsp;[毕马威](https://home.kpmg/cn/zh/home/insights.html)&emsp;&emsp;[贝恩](https://www.bain.cn/new_list.php)&emsp;&emsp;[尼尔森](https://www.nielsen.com/cn/zh/insights/)&emsp;&emsp;[益普索](https://www.ipsos.com/zh-cn)&emsp;&emsp;以及一些券商的行业研报*
+*[麦肯锡](https://www.mckinsey.com.cn/insights/)&emsp;[普华永道](https://www.pwccn.com/zh/research-and-insights.html)&emsp;[德勤](https://www2.deloitte.com/cn/zh.html)&emsp;[毕马威](https://home.kpmg/cn/zh/home/insights.html)&emsp;[贝恩](https://www.bain.cn/new_list.php)&emsp;[尼尔森](https://www.nielsen.com/cn/zh/insights/)&emsp;[益普索](https://www.ipsos.com/zh-cn)&emsp;以及一些券商的行业研报*
 
 #### 第三方数据库
 
-*[高德地图API](https://lbs.amap.com/api/webservice/summary/)&emsp;&emsp;[百度地图API](https://lbsyun.baidu.com/index.php?title=webapi)*
+*[高德地图API](https://lbs.amap.com/api/webservice/summary/)&emsp;[百度地图API](https://lbsyun.baidu.com/index.php?title=webapi)*
 
 ### 公司数据
 
-#### 官方数据&emsp;&emsp;
+#### 官方数据&emsp;
 
-*交易所看财报&emsp;&emsp;公司官网*
+*交易所看财报&emsp;公司官网*
 
 #### 第三方数据   
 
