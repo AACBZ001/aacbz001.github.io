@@ -31,7 +31,7 @@
 
 #### 第三方数据库
 
-*[Global Stat](https://globalstat.eu/population/48/datatable/2015-2020)&emsp;[Gap Minder](https://www.gapminder.org/data/)&emsp;付费的Wind、Bloomberg等*
+*[Global Stat](https://globalstat.eu/population/48/datatable/2015-2020)&emsp;[Gap Minder](https://www.gapminder.org/data/)&emsp;付费的Wind、Bloomberg&emsp;[数位观察](https://www.swguancha.com/)*
 
 ### 行业数据
 
