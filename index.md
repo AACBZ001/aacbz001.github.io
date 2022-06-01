@@ -99,7 +99,7 @@
 
 *连环替代法（比率型指标）：[维度拆分量化](https://zhuanlan.zhihu.com/p/145128051)&emsp;[过程指标量化](https://zhuanlan.zhihu.com/p/156843026)*
 
-*异动分析：[数据挖掘中常见的「异常检测」算法](https://www.zhihu.com/question/280696035/answer/1692420999)&emsp;[Adtributor根因分析](https://zhuanlan.zhihu.com/p/345569713)&emsp;[Adtributor根因分析Python实现](https://zhuanlan.zhihu.com/p/345766378)*
+*异动分析：[数据挖掘中常见的「异常检测」算法](https://www.zhihu.com/question/280696035/answer/1692420999)&emsp;[数据异常值检验方法](https://mp.weixin.qq.com/s/JvcIkvxU5YBgWYH5cwVqow)&emsp;[Adtributor根因分析](https://zhuanlan.zhihu.com/p/345569713)&emsp;[Adtributor根因分析Python实现](https://zhuanlan.zhihu.com/p/345766378)*
 
 #### 其他分析
 *[BG/NBD概率模型预测用户LTV](https://zhuanlan.zhihu.com/p/391245292)&emsp;[用户生命周期价值CLTV](https://mattzheng.blog.csdn.net/article/details/116596955?spm=1001.2014.3001.5502)&emsp;[基于多任务学习的游戏用户生命周期价值（LVT）预估](https://zhuanlan.zhihu.com/p/348409645)*
@@ -118,7 +118,7 @@
 
 *无监督：[聚类（K-Means）](https://zhuanlan.zhihu.com/p/158776162)&emsp;[PCA](https://download.csdn.net/download/weixin_38568548/13751363?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-download-2%7Edefault%7ELandingCtr%7EPaid-1.queryctrv2&depth_1-utm_source=distribute.pc_relevant_t0.none-task-download-2%7Edefault%7ELandingCtr%7EPaid-1.queryctrv2&utm_relevant_index=1)*
 
-*时间序列：[时间序列入门](https://mattzheng.blog.csdn.net/article/details/112792114?spm=1001.2014.3001.5502)&emsp;[DeapAR模型的时间序列](https://mattzheng.blog.csdn.net/article/details/112914631?spm=1001.2014.3001.5502)&emsp;[Prophet](https://mattzheng.blog.csdn.net/article/details/57419862?spm=1001.2014.3001.5502)&emsp;[时间序列分类方法](https://mp.weixin.qq.com/s/9P0sXYqdUOZ3-eiCG1gc9Q)&emsp;[云音乐用户增长预测之Prophet模型](https://mp.weixin.qq.com/s/FCqVJQpiK2qPHoIuvMwY7g)*
+*时间序列：[时间序列入门](https://mattzheng.blog.csdn.net/article/details/112792114?spm=1001.2014.3001.5502)&emsp;[DeapAR模型的时间序列](https://mattzheng.blog.csdn.net/article/details/112914631?spm=1001.2014.3001.5502)&emsp;[Prophet](https://mattzheng.blog.csdn.net/article/details/57419862?spm=1001.2014.3001.5502)&emsp;[时间序列分类方法](https://mp.weixin.qq.com/s/9P0sXYqdUOZ3-eiCG1gc9Q)&emsp;[时间序列Python工具包](https://mp.weixin.qq.com/s/pQz30Fc979l7gClys0g6Ag)&emsp;[云音乐用户增长预测之Prophet模型](https://mp.weixin.qq.com/s/FCqVJQpiK2qPHoIuvMwY7g)*
 
 *线性规划：[PuLP解决线性规划问题](https://mattzheng.blog.csdn.net/article/details/116274144?spm=1001.2014.3001.5502)*
 
