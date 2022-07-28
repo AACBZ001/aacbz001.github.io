@@ -17,7 +17,7 @@
 
 *[如何学习商业分析（1）](https://mp.weixin.qq.com/s/G-zCa4DFUvWkyW3ORc_Z4w)&emsp;[如何学习商业分析（2）](https://mp.weixin.qq.com/s/UI5aa2SoBeGYS0Akzw8qMA)&emsp;[如何学习商业分析（3）](https://mp.weixin.qq.com/s/l1xKArhV4knLg8dYizeziw)*
 
-*[常用商业分析模型](https://zhuanlan.zhihu.com/p/441831785)&emsp;[如何理解UE](https://zhuanlan.zhihu.com/p/21428408)*   
+*[常用商业分析模型](https://zhuanlan.zhihu.com/p/441831785)&emsp;[如何理解UE](https://zhuanlan.zhihu.com/p/21428408)&emsp;[竞品分析方法](https://mp.weixin.qq.com/s/ULPTOcs1L52QvQDSPWOLnA)*   
 
 ## 信息获取
 
@@ -76,7 +76,7 @@
 
 *实时：[实时数仓架构](https://mp.weixin.qq.com/s/ulXyZ4wWOCXr21hWUynRXw)*
 
-*SQL相关：[数据倾斜原理](https://mp.weixin.qq.com/s/hz_6io_ZybbOlmBQE4KSBQ)&emsp;[数据倾斜解决方案](https://mp.weixin.qq.com/s/EzwcPMhqklHK7rMEc-3iyw)&emsp;[窗口函数](https://mp.weixin.qq.com/s/ByAKgzFK_DvyrL7-jr7wVw)&emsp;[JSON解析](https://mp.weixin.qq.com/s/awCvlb9BzCRX-Da1_l1FYg)*
+*SQL相关：[基础汇总](https://www.fivedata.cn/pages/5ca630/)&emsp;[数据倾斜原理](https://mp.weixin.qq.com/s/hz_6io_ZybbOlmBQE4KSBQ)&emsp;[数据倾斜解决方案](https://mp.weixin.qq.com/s/EzwcPMhqklHK7rMEc-3iyw)&emsp;[窗口函数](https://mp.weixin.qq.com/s/ByAKgzFK_DvyrL7-jr7wVw)&emsp;[JSON解析](https://mp.weixin.qq.com/s/awCvlb9BzCRX-Da1_l1FYg)*
 
 *统计相关：[统计分析方法汇总](https://mp.weixin.qq.com/s/cUklq8Har-LntVw8frvCqg)&emsp;[统计学公开课汇总](https://mp.weixin.qq.com/s/V27IlKUVI8L3DnkEaeoi3w)&emsp;[AB实验和假设检验方法汇总](https://zhuanlan.zhihu.com/p/432025060)*
 
